@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="business_name_header">Bella</string>
+    <string name="category_hours_of_operation_title">Время работы</string>
+    <string name="category_address_title">Адрес</string>
+    <string name="category_contact_title">Контакты</string>
+    <string name="category_follow_title">Подписывайтесь на нас</string>
+    <string name="phone_number">+996 550 14 56 67</string>
+    <string name="address">Ахунбаева/Проспект Мира 1a/14</string>
+    <string name="facebook_messenger_id">beautybella</string>
+    <string name="days_part_one">Пн - Чт + Вс</string>
+    <string name="days_part_two">Пт и Сб</string>
+    <string name="timings_part_one">10:00  "-" 20:00</string>
+    <string name="timings_part_two">14:00 "-" 21:00</string>
+</resources>
